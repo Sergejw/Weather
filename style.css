@@ -1,0 +1,85 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 300;
+    color: #4c5c5e;
+}
+
+.div {
+    padding-top: 100px;
+    text-align: center;
+    width: 400px;
+    margin: auto;
+}
+
+.button {
+    margin-left: -15px;
+}
+
+input {
+    font-size: 14px;
+    padding: 9px;
+    border: 1px solid #aeb6b9;
+    border-radius: 5px;
+    outline: 0;
+}
+
+#eingabe {
+    width: 300px;
+    background-image: url(img/line.gif);
+    background-repeat: no-repeat;
+    background-position: 285px 17px;
+}
+
+#button {
+    width: 30px;
+    padding-right: 13px;
+    margin-left: -37px;
+    border: 0;
+    background: none;
+}
+
+
+#button:hover {
+    color: #00a5e3;
+}
+
+.back {
+    margin: 42px;
+    margin-top: 7px;
+    padding: 15px;
+    background-color: white;
+    overflow:hidden;
+}
+
+
+.leftCol {
+    font-size: 42px;
+    text-align: left;
+    vertical-align: top;
+    line-height: 90%;
+    float: left;
+    width: 65%;
+    height: 40px;
+}
+
+.rightCol {
+    font-size: 16px;
+    text-align: right;
+    float: right;
+    width: 35%;
+}
+
+.blau {
+    color: #007dcd;
+}
+
+.rot {
+    color: #f23900;
+}
